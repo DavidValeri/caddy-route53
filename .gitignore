@@ -1,0 +1,18 @@
+# macOS special files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# macOS directory service stores
+.VolumeIcon.icns
+
+# macOS Finder window settings
+.DS_Store
+.fseventsd
